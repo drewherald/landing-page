@@ -37,3 +37,20 @@ ul{
     font-size: 28pt;
     padding-left: 12px;
   }
+
+  .middlebar{
+    width: auto;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 40px;
+  }
+  
+  .bannerimg{
+    max-width: 450px;
+    height: auto;
+    
+  }
+
+  h3{
+    text-align: center;
+  }
