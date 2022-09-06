@@ -17,6 +17,8 @@ body{
     margin: 0%;
     padding: 0%;
     flex-direction: column;
+    position: fixed;
+    
     
 }
 
@@ -41,6 +43,11 @@ body{
   a{
     text-decoration: none;
     color: grey;
+    
+  }
+
+  a:hover{
+    color: black;
   }
 
   .title{
@@ -54,11 +61,18 @@ body{
     flex-wrap: wrap;
     gap: 50px;
     padding-top: 30px;
+    justify-content: left;
+    padding-left: 350px;
+
   }
   
   .bannerimg{
-    max-height: 350px;
+    max-height: 400px;
     
+  }
+
+  .horizontalimg{
+    max-height: 400px;
   }
 
 
