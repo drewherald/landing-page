@@ -75,7 +75,10 @@ body{
     max-height: 400px;
   }
 
-
+  .icons{
+    height: 25px;
+    width: 25px;
+  }
 
 
 
