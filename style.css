@@ -68,11 +68,20 @@ body{
   
   .bannerimg{
     max-height: 400px;
-    
+    position: relative;
+  }
+
+  .bannerimg:hover{
+    opacity: 0.5;
   }
 
   .horizontalimg{
     max-height: 400px;
+    position: relative;
+  }
+
+  .horizontalimg:hover{
+    opacity: 0.5;
   }
 
   .icons{
@@ -80,6 +89,8 @@ body{
     width: 25px;
   }
 
-
+  .altText{
+    position: absolute;
+  }
 
  
