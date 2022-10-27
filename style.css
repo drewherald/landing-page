@@ -68,7 +68,6 @@ body{
   
   .bannerimg{
     max-height: 400px;
-    position: relative;
   }
 
   .bannerimg:hover{
@@ -77,7 +76,6 @@ body{
 
   .horizontalimg{
     max-height: 400px;
-    position: relative;
   }
 
   .horizontalimg:hover{
@@ -91,6 +89,15 @@ body{
 
   .altText{
     position: absolute;
+    bottom: 20px;
+    right: 20px;
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .photo1{
+    position: relative;
   }
 
  
