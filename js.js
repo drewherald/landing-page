@@ -3,7 +3,6 @@ for(let i=1; i<=12;i++){
     const img = document.querySelector(`#photos${i}`);
     const par = document.querySelector(`#altText${i}`);
 
-    console.log();
 
     img.addEventListener("mouseover", function (e) {
         par.style.visibility = 'visible';
