@@ -59,15 +59,15 @@ body{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 50px;
+    gap: 10px;
     padding-top: 30px;
     justify-content: left;
-    padding-left: 350px;
+    padding-left: 20%;
 
   }
   
   .bannerimg{
-    max-height: 400px;
+    max-height: 500px;
   }
 
   .bannerimg:hover{
@@ -75,7 +75,7 @@ body{
   }
 
   .horizontalimg{
-    max-height: 400px;
+    max-height: 500px;
   }
 
   .horizontalimg:hover{
